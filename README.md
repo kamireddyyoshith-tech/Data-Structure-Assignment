@@ -6,4 +6,4 @@
 
  Course Name:  DSA
 
- Assignment Description: This repository contains all C program files for the Data Structure assignment lab.
+ Assignment Description: This repository contains all C program files for the Data Structure assignment

@@ -1,8 +1,8 @@
 ## Data Structure Assignment Lab
 
- Name:  Deepak Reddy  
+ Name:  K.YOSHITH REDDY  
 
- Roll Number: CDS/2025/1055 
+ Roll Number: CDS/2025/1043 
 
  Course Name:  DSA
 

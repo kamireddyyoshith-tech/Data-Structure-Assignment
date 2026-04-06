@@ -1,9 +1,9 @@
 ## Data Structure Assignment Lab
 
-# Name:  Deepak Reddy  
+ Name:  Deepak Reddy  
 
-# Roll Number: CDS/2025/1055 
+ Roll Number: CDS/2025/1055 
 
-# Course Name:  DSA
+ Course Name:  DSA
 
-# Assignment Description: This repository contains all C program files for the Data Structure assignment lab.
+ Assignment Description: This repository contains all C program files for the Data Structure assignment lab.
